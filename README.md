@@ -157,6 +157,7 @@ The code uses the `diabetes.csv` dataset with:
 - **Samples**: 768
 - **Features**: 8 (Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age)
 - **Classes**: 2 (No Diabetes: 0, Diabetes: 1)
+- **Classes**: We have also used a synthetic dataset 
 
 ## Troubleshooting
 
